@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(198, 220, 253);
+    text-align: center;
+    margin: 100px;
+}
+
+h4{
+    margin: 200px;
+    margin-top: 270px;
+    margin-bottom: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(53, 63, 71);
+}
+
+img{
+    width: 100px;
+}
